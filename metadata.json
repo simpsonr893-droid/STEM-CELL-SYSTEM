@@ -1,0 +1,8 @@
+{
+  "name": "RegenDirectory & AI Lab",
+  "description": "A premier directory of top stem cell research offices across the US, featuring an advanced AI image visualization tool for medical imaging concepts.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
